@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.mening.ilovam" version="1.0.0"
+  xmlns="http://www.w3.org/ns/widgets">
+  <name>Mening Ilovam</name>
+  <content src="index.html" />
+  <platform name="android"/>
+</widget>
